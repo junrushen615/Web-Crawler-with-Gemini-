@@ -1,3 +1,5 @@
+I acknowledge the use of AI-powered coding assistants (ChatGPT and GitHub Copilot) in developing these modifications.
+
 1. Internet `retry`
 
 Gemini:
